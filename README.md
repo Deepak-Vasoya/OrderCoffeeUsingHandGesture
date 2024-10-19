@@ -26,8 +26,8 @@ This project simulates a **virtual coffee machine interface** using hand gesture
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/VirtualCoffeeMachine.git
-cd VirtualCoffeeMachine
+git clone https://github.com/Deepak-Vasoya/OrderCoffeeUsingHandGesture.git 
+cd OrderCoffeeUsingHandGesture
 ```
 
 ### 2. Run the Project
@@ -66,7 +66,7 @@ python main.py
 ---
 
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 ---
 
